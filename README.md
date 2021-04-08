@@ -8,9 +8,9 @@ This application utilizes mongoDB to ensure that we are logging all of the preva
 ![Workout Tracker](https://github.com/zdjeffers/Workout_Tracker/blob/main/public/assets/images/Fitness%20Tracker.gif)
 
 ### Deployed Site:
-[Workout Tracker](https://zdjeffers.github.io/Workout_Tracker/)
+[Workout Tracker (Github)](https://zdjeffers.github.io/Workout_Tracker/)
 
-[Workout Tracker](https://zdjeffers.github.io/BuildABurger/)
+[Workout Tracker (Heroku)](http://heroku.com)
 
 ### Final Thoughts:
 Thank you for taking the time to look at my work. If you'd like to see any of my other projects, please feel free to drop by [my GitHub Page!](https://github.com/zdjeffers)
