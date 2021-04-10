@@ -10,7 +10,7 @@ This application utilizes mongoDB to ensure that we are logging all of the preva
 ### Deployed Site:
 [Workout Tracker (Github)](https://zdjeffers.github.io/Workout_Tracker/)
 
-[Workout Tracker (Heroku)](http://heroku.com)
+[Workout Tracker (Heroku)](https://thawing-plateau-17623.herokuapp.com/)
 
 ### Final Thoughts:
 Thank you for taking the time to look at my work. If you'd like to see any of my other projects, please feel free to drop by [my GitHub Page!](https://github.com/zdjeffers)
