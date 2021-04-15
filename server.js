@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 // require("./seeders/seed");
 
 //Set Port
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 //Set Express
 const app = express();
